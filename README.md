@@ -8,10 +8,6 @@ Computer Engineering graduate focused on Python, SQL, and practical analytics. I
     - Python tool that ingests CRM CSVs, computes weekly KPIs (new leads, MQL, SQL, wins), conversion rates, channel/region breakdowns, and a 4-week moving-average forecast. Exports CSVs and report-ready charts.
 - LangChain Tools \& Agentic RAG Pipeline
     - Built a tool-using agent with Wikipedia, arXiv, and a custom FAISS retriever over LangSmith docs. Implemented document loading, chunking, embeddings, and retrieval to answer domain questions.
-- Crypto-Currency Closing Price Prediction
-    - Time-series modeling for BTC/ETH/LTC with GRU, LSTM, and Bi-LSTM in TensorFlow/Keras. Compared models using RMSE/MAPE and visual error analysis; GRU performed best on holdout.
-- Home Inventory Manager (Java)
-    - Desktop app applying OOP concepts for CRUD, search/filter, image attachments, and file-based persistence; simple reporting and collections usage.
 
 
 ## 🌱 Currently Learning
@@ -31,6 +27,12 @@ Computer Engineering graduate focused on Python, SQL, and practical analytics. I
 - Practices: Requirements, KPIs, UAT basics, CSV workflows, version control
 
 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
+
+
 ## 📜 Certifications
 
 - Hugging Face — Fundamentals of Agents
@@ -42,11 +44,6 @@ Computer Engineering graduate focused on Python, SQL, and practical analytics. I
 
 - Profile: leetcode.com/u/abhisheknaik2456/
 
-
-## 🔗 Quick Links
-
-- Currently polishing repos and READMEs for the analytics and agent projects.
-- Open to feedback and issues—happy to iterate and improve.
 
 Thanks for visiting!
 
